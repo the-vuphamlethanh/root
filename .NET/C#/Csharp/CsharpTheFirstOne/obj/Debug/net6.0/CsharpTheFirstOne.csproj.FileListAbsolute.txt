@@ -1,0 +1,15 @@
+C:\Users\rhythm\Desktop\root\.NET\C#\Csharp\CsharpTheFirstOne\bin\Debug\net6.0\CsharpTheFirstOne.exe
+C:\Users\rhythm\Desktop\root\.NET\C#\Csharp\CsharpTheFirstOne\bin\Debug\net6.0\CsharpTheFirstOne.deps.json
+C:\Users\rhythm\Desktop\root\.NET\C#\Csharp\CsharpTheFirstOne\bin\Debug\net6.0\CsharpTheFirstOne.runtimeconfig.json
+C:\Users\rhythm\Desktop\root\.NET\C#\Csharp\CsharpTheFirstOne\bin\Debug\net6.0\CsharpTheFirstOne.dll
+C:\Users\rhythm\Desktop\root\.NET\C#\Csharp\CsharpTheFirstOne\bin\Debug\net6.0\ref\CsharpTheFirstOne.dll
+C:\Users\rhythm\Desktop\root\.NET\C#\Csharp\CsharpTheFirstOne\bin\Debug\net6.0\CsharpTheFirstOne.pdb
+C:\Users\rhythm\Desktop\root\.NET\C#\Csharp\CsharpTheFirstOne\obj\Debug\net6.0\CsharpTheFirstOne.csproj.AssemblyReference.cache
+C:\Users\rhythm\Desktop\root\.NET\C#\Csharp\CsharpTheFirstOne\obj\Debug\net6.0\CsharpTheFirstOne.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\rhythm\Desktop\root\.NET\C#\Csharp\CsharpTheFirstOne\obj\Debug\net6.0\CsharpTheFirstOne.AssemblyInfoInputs.cache
+C:\Users\rhythm\Desktop\root\.NET\C#\Csharp\CsharpTheFirstOne\obj\Debug\net6.0\CsharpTheFirstOne.AssemblyInfo.cs
+C:\Users\rhythm\Desktop\root\.NET\C#\Csharp\CsharpTheFirstOne\obj\Debug\net6.0\CsharpTheFirstOne.csproj.CoreCompileInputs.cache
+C:\Users\rhythm\Desktop\root\.NET\C#\Csharp\CsharpTheFirstOne\obj\Debug\net6.0\CsharpTheFirstOne.dll
+C:\Users\rhythm\Desktop\root\.NET\C#\Csharp\CsharpTheFirstOne\obj\Debug\net6.0\ref\CsharpTheFirstOne.dll
+C:\Users\rhythm\Desktop\root\.NET\C#\Csharp\CsharpTheFirstOne\obj\Debug\net6.0\CsharpTheFirstOne.pdb
+C:\Users\rhythm\Desktop\root\.NET\C#\Csharp\CsharpTheFirstOne\obj\Debug\net6.0\CsharpTheFirstOne.genruntimeconfig.cache
