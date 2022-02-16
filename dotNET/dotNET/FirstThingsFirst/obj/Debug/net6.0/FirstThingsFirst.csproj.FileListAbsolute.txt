@@ -1,0 +1,15 @@
+C:\Users\thevu\Desktop\root\dotNET\dotNET\FirstThingsFirst\bin\Debug\net6.0\FirstThingsFirst.exe
+C:\Users\thevu\Desktop\root\dotNET\dotNET\FirstThingsFirst\bin\Debug\net6.0\FirstThingsFirst.deps.json
+C:\Users\thevu\Desktop\root\dotNET\dotNET\FirstThingsFirst\bin\Debug\net6.0\FirstThingsFirst.runtimeconfig.json
+C:\Users\thevu\Desktop\root\dotNET\dotNET\FirstThingsFirst\bin\Debug\net6.0\FirstThingsFirst.dll
+C:\Users\thevu\Desktop\root\dotNET\dotNET\FirstThingsFirst\bin\Debug\net6.0\ref\FirstThingsFirst.dll
+C:\Users\thevu\Desktop\root\dotNET\dotNET\FirstThingsFirst\bin\Debug\net6.0\FirstThingsFirst.pdb
+C:\Users\thevu\Desktop\root\dotNET\dotNET\FirstThingsFirst\obj\Debug\net6.0\FirstThingsFirst.csproj.AssemblyReference.cache
+C:\Users\thevu\Desktop\root\dotNET\dotNET\FirstThingsFirst\obj\Debug\net6.0\FirstThingsFirst.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\thevu\Desktop\root\dotNET\dotNET\FirstThingsFirst\obj\Debug\net6.0\FirstThingsFirst.AssemblyInfoInputs.cache
+C:\Users\thevu\Desktop\root\dotNET\dotNET\FirstThingsFirst\obj\Debug\net6.0\FirstThingsFirst.AssemblyInfo.cs
+C:\Users\thevu\Desktop\root\dotNET\dotNET\FirstThingsFirst\obj\Debug\net6.0\FirstThingsFirst.csproj.CoreCompileInputs.cache
+C:\Users\thevu\Desktop\root\dotNET\dotNET\FirstThingsFirst\obj\Debug\net6.0\FirstThingsFirst.dll
+C:\Users\thevu\Desktop\root\dotNET\dotNET\FirstThingsFirst\obj\Debug\net6.0\ref\FirstThingsFirst.dll
+C:\Users\thevu\Desktop\root\dotNET\dotNET\FirstThingsFirst\obj\Debug\net6.0\FirstThingsFirst.pdb
+C:\Users\thevu\Desktop\root\dotNET\dotNET\FirstThingsFirst\obj\Debug\net6.0\FirstThingsFirst.genruntimeconfig.cache
