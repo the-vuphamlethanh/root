@@ -13,13 +13,13 @@
 function addData(){
     if (isset($_POST["urlImgA"]) && isset($_POST["productName"]) && isset($_POST["productPrice"]) &&
         isset($_POST["urlImgB"])) {
-        $img = $_POST["urlImgA"];
-        $img1 = $_POST["urlImgB"];
+        $urlImgA = $_POST["urlImgA"];
+        $urlImgB = $_POST["urlImgB"];
         $title_URL = 'Vu Yeu Uyen';
-        $title = $_POST["productName"];
-        $price = $_POST["productPrice"];
+        $productName = $_POST["productName"];
+        $productPrice = $_POST["productPrice"];
         $file = fopen("Tất cả sản phẩm – COLKIDSCLUBVN.xlsx - Sheet1.csv", "a") or die("You can not open this file !!");
-        $line = array($title, $title_URL, $img, $img1, $price);
+        $line = array($productName, $title_URL, $urlImgA, $urlImgB, $productPrice);
         fputcsv($file, $line);
         fclose($file);
     }

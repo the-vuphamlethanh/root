@@ -11,7 +11,7 @@
 <?php
 function getData(): array {
     $array = [];
-    if (($open = fopen("Tất cả sản phẩm – COLKIDSCLUBVN.xlsx - Sheet1.csv", "r")) !== FALSE)
+    if (($open = fopen("Tất cả sản phẩm – COLKIDSCLUBVN.xlsx - Sheet1.csv", "r")) == TRUE)
     {
         while (($data = fgetcsv($open, 1000, ",")) !== FALSE)
         {
