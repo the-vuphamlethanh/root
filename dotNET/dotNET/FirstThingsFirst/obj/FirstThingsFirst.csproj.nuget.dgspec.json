@@ -1,20 +1,20 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\thevu\\Desktop\\root\\dotNET\\dotNET\\FirstThingsFirst\\FirstThingsFirst.csproj": {}
+    "/home/vu/Desktop/root/dotNET/dotNET/FirstThingsFirst/FirstThingsFirst.csproj": {}
   },
   "projects": {
-    "C:\\Users\\thevu\\Desktop\\root\\dotNET\\dotNET\\FirstThingsFirst\\FirstThingsFirst.csproj": {
+    "/home/vu/Desktop/root/dotNET/dotNET/FirstThingsFirst/FirstThingsFirst.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\thevu\\Desktop\\root\\dotNET\\dotNET\\FirstThingsFirst\\FirstThingsFirst.csproj",
+        "projectUniqueName": "/home/vu/Desktop/root/dotNET/dotNET/FirstThingsFirst/FirstThingsFirst.csproj",
         "projectName": "FirstThingsFirst",
-        "projectPath": "C:\\Users\\thevu\\Desktop\\root\\dotNET\\dotNET\\FirstThingsFirst\\FirstThingsFirst.csproj",
-        "packagesPath": "C:\\Users\\thevu\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\thevu\\Desktop\\root\\dotNET\\dotNET\\FirstThingsFirst\\obj\\",
+        "projectPath": "/home/vu/Desktop/root/dotNET/dotNET/FirstThingsFirst/FirstThingsFirst.csproj",
+        "packagesPath": "/home/vu/.nuget/packages/",
+        "outputPath": "/home/vu/Desktop/root/dotNET/dotNET/FirstThingsFirst/obj/",
         "projectStyle": "PackageReference",
         "configFilePaths": [
-          "C:\\Users\\thevu\\AppData\\Roaming\\NuGet\\NuGet.Config"
+          "/home/vu/.nuget/NuGet/NuGet.Config"
         ],
         "originalTargetFrameworks": [
           "net6.0"
@@ -52,7 +52,7 @@
               "privateAssets": "all"
             }
           },
-          "runtimeIdentifierGraphPath": "C:\\Users\\thevu\\.dotnet\\sdk\\6.0.101\\RuntimeIdentifierGraph.json"
+          "runtimeIdentifierGraphPath": "/snap/dotnet-sdk/current/sdk/6.0.102/RuntimeIdentifierGraph.json"
         }
       }
     }

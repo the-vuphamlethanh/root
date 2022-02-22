@@ -1,0 +1,215 @@
+@import url('https://fonts.googleapis.com/css2?family=Nunito:ital,wght@0,200;0,300;0,400;0,500;0,600;0,700;0,800;0,900;1,200;1,300;1,400;1,500;1,600;1,700;1,800;1,900&display=swap');
+* {
+    padding: 0;
+    margin: 0;
+    box-sizing: border-box;
+    font-family: 'Nunito', sans-serif;
+    list-style: none;
+    text-decoration: none;
+    transition: 0.5s;
+}
+body{
+    font-size: 16px;
+}
+.header--primary{
+    height: 27px;
+    background-color: black;
+}
+.header--middle{
+    display: flex;
+    justify-content: space-around;
+    height: 120px;
+    align-items: center;
+    border: 0;
+    border-bottom: 1px solid #F15E2C;
+}
+.header--middle__nav{
+    display: flex;
+    gap: 30px;
+    align-items: center;
+}
+.header--middle__nav .item{
+    font-size: 18px;
+    font-weight: 700;
+}
+a{
+    font-size: inherit;
+}
+.form__container{
+    background: url("https://ananas.vn/wp-content/themes/ananas/fe-assets/images/svg/Logo_Ananas_Header.svg") no-repeat center center;
+    background-size: 50%;
+    padding: 70px 0;
+    display: flex;
+    width: auto;
+    margin-top: 70px;
+}
+.form{
+    display: flex;
+    flex-direction: column;
+    width: 600px;
+    margin: auto;
+    gap: 20px;
+}
+.form input, button{
+    height: 40px;
+    border: 2px solid #F15E2C;
+    outline: 0;
+    padding: 10px;
+    text-decoration: none;
+}
+.form button{
+    background-color: white;
+    color: #F15E2C;
+    font-weight: 800;
+    font-size: 18px;
+    letter-spacing: 1.5px;
+    transition: 0.7s;
+    cursor: pointer;
+}
+.form button:hover{
+    letter-spacing: 10px;
+}
+.form label{
+    display: grid;
+    grid-template-columns: 1.4fr 3fr;
+    align-items: center;
+}
+.form span{
+    color: white;
+    font-size: 22px;
+    font-weight: 800;
+    letter-spacing: 1.5px;
+    text-shadow: 2px 0 0 #F15E2C, -2px 0 0 #F15E2C, 0 2px 0 #F15E2C, 0 -2px 0 #F15E2C, 1px 1px #F15E2C, -1px -1px 0 #F15E2C, 1px -1px 0 #F15E2C, -1px 1px 0 #F15E2C;
+}
+.product__container{
+    display: grid;
+    grid-template-columns: 1fr 1fr 1fr 1fr;
+    gap: 30px;
+    padding: 5vw 5vw 0;
+    text-align: center;
+}
+.product__item:hover{
+    border: 1px solid #fa8861;
+}
+.product__img{
+    width: 100%;
+    position: relative;
+    margin-bottom: 10px;
+    display: flex;
+    justify-content: center;
+}
+.product__img>img{
+    width: 100%;
+    height: 100%;
+    object-fit: cover;
+}
+.product__img>img:first-child{
+    position: absolute;
+}
+.product__img:hover>img:first-child{
+    z-index: -100;
+}
+.product__item:hover .btn{
+    opacity: 1;
+}
+.banner{
+    width: 100%;
+    display: flex;
+    margin: 5vw 0 0 0;
+    position: relative;
+    align-items: center;
+    justify-content: center;
+}
+.banner img{
+    width: 60%;
+    min-height: 250px;
+    object-fit: cover;
+    margin: auto;
+    border-radius: 15px;
+}
+.banner h1{
+    position: absolute;
+    font-size: calc(7vw + 5px);
+    color: #F15E2C;
+    letter-spacing: 30px;
+    text-align: center;
+    text-shadow: 5px -5px 0 aquamarine, 10px -10px 0 white, 15px -15px 0 black;
+}
+.banner h1 span{
+    text-decoration: underline;
+    text-decoration-style: dotted;
+}
+input[placeholder='search']{
+    padding: 8px 20px;
+    border: 2px solid #F15E2C;
+    box-shadow: 3px -3px 0 aquamarine, 6px -6px 0 white, 9px -9px 0 black;
+    outline: 0;
+}
+.product__img .btn{
+    position: absolute;
+    background-color: #F15E2C;
+    bottom: 0;
+    width: 50%;
+    height: 12%;
+    color: white;
+    font-size: 20px;
+    font-weight: 700;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    cursor: pointer;
+    opacity: 0;
+}
+.product__item{
+
+}
+.product__name, .product__price{
+    font-weight: bold;
+}
+a{
+    color: black;
+}
+@media screen and (max-width: 1150px) {
+    .product__container{
+        grid-template-columns: 1fr 1fr 1fr;
+        gap: 30px;
+    }
+}
+@media screen and (max-width: 900px) {
+    body{
+        font-size: 14px;
+    }
+    .banner h1{
+        font-weight: 800;
+        text-shadow: 4px -4px 0 aquamarine, 8px -8px 0 white, 12px -12px 0 black;
+        letter-spacing: 15px;
+    }
+    .product__container{
+        grid-template-columns: 1fr 1fr;
+        gap: 10px;
+    }
+    .banner img{
+        width: 80%;
+        min-height: 230px;
+    }
+}
+@media screen and (max-width: 450px) {
+    .product__container{
+        grid-template-columns: 1fr;
+    }
+    .banner h1{
+        letter-spacing: 10px;
+    }
+    .banner img{
+        width: 80%;
+        min-height: 150px;
+    }
+}
+@media (pointer:coarse) {
+    .product__img .btn{
+        opacity: 1;
+    }
+}
+
+
+
