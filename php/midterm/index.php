@@ -95,5 +95,67 @@ function renderData(array $data){
     ?>
 </div>
 
+<footer>
+    <div class="footer__item">
+        <img src="https://ananas.vn/wp-content/themes/ananas/fe-assets/images/svg/Store.svg" alt="">
+    </div>
+    <div class="footer__item">
+        <h2>PRODUCT</h2>
+        <ul>
+            <li>Men Shoes</li>
+            <li>Women Shoes</li>
+            <li>Fashion & accesori</li>
+            <li>Sale of</li>
+        </ul>
+    </div>
+    <div class="footer__item">
+        <h2>PRODUCT</h2>
+        <ul>
+            <li>Men Shoes</li>
+            <li>Women Shoes</li>
+            <li>Fashion & accesori</li>
+            <li>Sale of</li>
+        </ul>
+    </div>
+    <div class="footer__item">
+        <h2>PRODUCT</h2>
+        <ul>
+            <li>Men Shoes</li>
+            <li>Women Shoes</li>
+            <li>Fashion & accesori</li>
+            <li>Sale of</li>
+        </ul>
+    </div>
+    <div class="footer__item">
+        <h2>PRODUCT</h2>
+        <ul>
+            <li>Men Shoes</li>
+            <li>Women Shoes</li>
+            <li>Fashion & accesori</li>
+            <li>Sale of</li>
+        </ul>
+    </div>
+    <div class="footer__item footer__btn">
+        <span>FIND STORE</span>
+    </div>
+    <div class="footer__item footer__icon">
+        <h2>ANANAS SOCIAL</h2>
+        <ul>
+            <li>
+                <img src="https://ananas.vn/wp-content/themes/ananas/fe-assets/images/svg/icon_youtube.svg" alt="">
+            </li>
+            <li>
+                <img src="https://ananas.vn/wp-content/themes/ananas/fe-assets/images/svg/icon_instagram.svg" alt="">
+            </li>
+            <li>
+                <img src="https://ananas.vn/wp-content/themes/ananas/fe-assets/images/svg/icon_facebook.svg" alt="">
+            </li>
+        </ul>
+    </div>
+    <div class="footer__item">
+        <img src="https://ananas.vn/wp-content/themes/ananas/fe-assets/images/svg/Logo_Ananas_Footer.svg" alt="">
+    </div>
+</footer>
+
 </body>
 </html>

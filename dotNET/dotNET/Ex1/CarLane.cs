@@ -8,14 +8,20 @@ public class CarLane
     private string _carLaneTail;
     private string _driver;
 
-    public CarLane(Car car, string carLaneHead, string carLaneTail)
+    public CarLane(Car car, string carLaneHead, string carLaneTail, string driver)
     {
         _carLaneId = _car?.GetCarId() + "|" + carLaneHead + "|" + carLaneTail;
         _car = car;
         _carLaneHead = carLaneHead;
         _carLaneTail = carLaneTail;
+        _driver = driver;
     }
 
+    public string GetCarLaneId()
+    {
+        return _carLaneId;
+    }
+    
     public Car Car
     {
         get => _car;
@@ -32,5 +38,11 @@ public class CarLane
     {
         get => _carLaneTail;
         set => _carLaneTail = value ?? throw new ArgumentNullException(nameof(value));
+    }
+
+    public string Driver
+    {
+        get => _driver;
+        set => _driver = value ?? throw new ArgumentNullException(nameof(value));
     }
 }
